@@ -17,7 +17,8 @@ itr.remove();
 
 }
 System.out.println(list);
-
+System.out.println("hello");
+System.out.println("Thant");
 }
 
 }
